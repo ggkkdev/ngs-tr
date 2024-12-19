@@ -21,7 +21,7 @@
 title: NGS
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This page presents the paper
+  This page presents the paper Nickname for Group Signatures.
 baseurl: "/ngs-site" # the subpath of your site, e.g. /blog
 url: "https://ggkkdev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ggkkdev
